@@ -30,7 +30,7 @@ churn (15–18%).
 ● Implication: Electronic check users face convenience/trust issues. Encouraging reliable
 payment modes can reduce churn.
 
-● Churn Rate by Tenure:
+## Churn Rate by Tenure:
 
 ● Customers with less than 1 year of tenure have the highest churn at ~50%.
 
@@ -41,7 +41,7 @@ payment modes can reduce churn.
 ● Implication: Early customer lifecycle (first year) is the most critical for engagement and
 retention.
 
-● Additional Insights:
+## Additional Insights:
 
 **○ Internet Service Type**
 
