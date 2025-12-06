@@ -1,4 +1,6 @@
 ## Telco churn analysis.
+## ANALYSIS, https://github.com/danishda8318-blip/telco-churn-analysis/blob/main/telco%20churn%20analysis.pdf
+
 ● Objective:
 
 The analysis investigates key factors influencing customer churn, with a primary focus on
